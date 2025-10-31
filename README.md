@@ -1,4 +1,4 @@
-## 🤖 Hi! I build AI systems and things
+### 🤖 Hi! I build AI systems and things
 
 <!--
 **mjnitz02/mjnitz02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
